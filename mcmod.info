@@ -1,0 +1,17 @@
+[
+{
+  "modid": "GoldenSunMod",
+  "name": "Golden Sun Mod",
+  "description": "An adventure/puzzle mod based off the Golden Sun Universe",
+  "version": "Prologue-Chapter 1-Line 1",
+  "mcversion": "1.6.4",
+  "logoFile": "",
+  "url": "http://www.gs-adeptsrefuge.com/forums/index.php?/topic/2956-gsar-java-trainingminecraft-mod-project/",
+  "updateUrl": "",
+  "authors": ["Eli Dacreach", "Robert Joe"],
+  "credits": "Original Game by Camelot Software Planning",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
